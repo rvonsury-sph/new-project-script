@@ -69,7 +69,6 @@ def create_folder_structure(save_location, project_name):
         os.path.join(save_location, project_name, "3_export", "1_rough", "_archive"),
         os.path.join(save_location, project_name, "3_export", "2_compositing", "for_compositing"),
         os.path.join(save_location, project_name, "3_export", "2_compositing", "from_compositing",),
-
         os.path.join(save_location, project_name, "3_export", "3_color", "for-color"),
         os.path.join(save_location, project_name, "3_export", "3_color", "from-color"),
         os.path.join(save_location, project_name, "3_export", "4_sound_omf", "for-mastering"),
